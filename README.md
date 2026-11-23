@@ -11,7 +11,7 @@ It explores container orchestration, workload scaling, application health checks
 
 ## Docker Dashboard
 
-![Docker Dashboard Running](./screenshots/Docker_Dashboard_Running.png)
+![Docker Dashboard Running](./Screenshots/Docker_Dashboard_Running.png)
 
 ## 🛠️ Tech Stack
 
