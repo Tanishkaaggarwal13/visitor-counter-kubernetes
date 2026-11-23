@@ -9,6 +9,10 @@ This project demonstrates how a Python Flask application can be containerized, c
 
 It explores container orchestration, workload scaling, application health checks, resource management, and hybrid deployment configurations.
 
+## Docker Desktop
+
+![Docker Dashboard Running](./screenshots/Docker_Dashboard_Running.png)
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Python, Flask
